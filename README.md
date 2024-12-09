@@ -21,6 +21,17 @@ Any work conmpleted during the module that is not part of the assignment or proj
     b) assignment03-pie.ipynb
         A pie chart of 1000 peoples email domains in the csv file at the url
         https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download
-
+       Note: There was no assignment 4
     c) assignment_5_risk.ipynb
            The program should simulates 1000 individual battle rounds based on the board game Risk (3 attacker vs 2 defender) and plots the result.
+     d) assignment_6_Weather.ipynb
+          Get the data from the link:
+            https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv
+            Plot:
+            The temperature
+            The mean temperature each day
+            The mean temperature for each month 
+            The Windspeed (there is data missing from this column)
+            The rolling windspeed (say over 24 hours)
+            The max windspeed for each day
+            The monthly mean of the daily max windspeeds     
