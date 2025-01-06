@@ -34,4 +34,9 @@ Any work conmpleted during the module that is not part of the assignment or proj
             The Windspeed (there is data missing from this column)
             The rolling windspeed (say over 24 hours)
             The max windspeed for each day
-            The monthly mean of the daily max windspeeds     
+            The monthly mean of the daily max windspeeds    
+
+
+In the folder "Big_project" my notbook for the big project and the CSV file of the data set. 
+As set by lecturer Andrew Beatty:
+"Write a notbook that demonstrates that you can perform data analysis on some data" I chose the data set to do with birth rates for 2022 and 2023 from the Central Statistics office. This was saved to a CSV file which is contained in the folder "Big_project" A number of analysis was conducted with the analysis within the Notbook. 
