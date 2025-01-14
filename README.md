@@ -52,3 +52,5 @@ The juypter notebbok containing the body of the assignment.
 An attempt was made with a machine learning perspective but was ultimately unsuccessful. Further study is required. 
 
 A suggestion is made for a further project/analysis. 
+
+References for this project are contained within the notbook.
