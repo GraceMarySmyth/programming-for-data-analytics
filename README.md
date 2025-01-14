@@ -40,3 +40,15 @@ Any work conmpleted during the module that is not part of the assignment or proj
 In the folder "Big_project" my notbook for the big project and the CSV file of the data set. 
 As set by lecturer Andrew Beatty:
 "Write a notbook that demonstrates that you can perform data analysis on some data" I chose the data set to do with birth rates for 2022 and 2023 from the Central Statistics office. This was saved to a CSV file which is contained in the folder "Big_project" A number of analysis was conducted with the analysis within the Notbook. 
+
+The folder "Big_project" contains three files:
+**birth records 2022-23.csv**
+This is the csv file used in the main body of the assessment.
+**cso-data**
+this is a csv file of vaccination records which I looked at but didnt utilise in the assignment.
+**birth_rates.ipynb**
+The juypter notebbok containing the body of the assignment. 
+
+An attempt was made with a machine learning perspective but was ultimately unsuccessful. Further study is required. 
+
+A suggestion is made for a further project/analysis. 
